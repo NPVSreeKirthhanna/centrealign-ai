@@ -1,0 +1,9 @@
+INVOICE
+Vendor: ACME Cloud Services
+Invoice Number: INV-ACME-2026-101
+Invoice Date: 2026-09-28
+Due Date: 2026-10-28
+Currency: INR
+Amount: INR 24,800.00
+Description: Annual cloud hosting subscription.
+Payment Terms: Net 30 days.
